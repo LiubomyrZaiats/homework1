@@ -28,4 +28,4 @@
         </div>
     </body>
 </html>
-![](https://imgur.com/yHZbN0D)
+![](https://github.com/LiubomyrZaiats/homework1/blob/gh-pages/github1.JPG)
